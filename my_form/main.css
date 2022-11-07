@@ -1,0 +1,27 @@
+form {
+    border: 1px solid black; 
+    border-radius: 4px;
+    padding: 5px 10px 10px 10px;
+    width: 270px;
+    display: inline-block;
+    margin-top: 12%;
+}
+body {
+    text-align: center;
+}
+.main {
+    text-align: center; 
+    padding: 5px;
+}
+h1 {
+    text-align: center;
+}
+input[type=text] {
+    padding: 4px 4px;
+    box-sizing: border-box;
+  }
+input[type=submit] {
+    width: 100%; 
+    text-align: center;
+    margin: 20px 3px 20px 3px;
+}
